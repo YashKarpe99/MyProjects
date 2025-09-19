@@ -24,7 +24,7 @@ This project provides basic information about the restaurant such as the menu, l
 ## 🚀 How to Use
 1. Clone or download this repository  
    ```bash
-   git clone https://github.com/YashKarpe99/MyProjects.git
+   git clone https://github.com/YashKarpe99/Restaurant-Website-Project.git
 2. Open index.html in your browser
 
    
